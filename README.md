@@ -1,6 +1,6 @@
 # someDSP
-some digital signla processing routines for neuroscience (CWT, Phase amplitude coupling)
-someDSP intructions
+some digital signal processing (someDSP) routines for neuroscience (CWT, Phase amplitude coupling) written in python
+
 
 Paolo Bazzigaluppi, paolo.bazzigaluppi@gmail.com
 
